@@ -1,8 +1,8 @@
-# MAD-Project-Group-3_Trio-Wedding-Planning
+# MAD-Project-Group-3_Tiro-Wedding-Planning
 
 MAD mini project - Mobile Application
 
-Topic - Trio Wedding Planning System
+Topic - Tiro Wedding Planning System
 
 Team Members
 
