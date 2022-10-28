@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tiro Wedding</string>
+    <string name="order_name">Order Name</string>
+    <string name="order_id">Order ID</string>
+    <string name="order_deatail">Order deatail</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
 </resources>
