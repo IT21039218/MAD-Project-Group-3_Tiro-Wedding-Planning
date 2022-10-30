@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="detailActivityOfferIV" type="id" />
+    <item name="detailActivityOfferNameTV" type="id" />
+    <item name="detailActivityOfferPriceTV" type="id" />
+    <item name="detailActivityAddToCartBtn" type="id" />
+    <item name="guideline2" type="id" />
+    <item name="view" type="id" />
+    <item name="textView4" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textView8" type="id" />
+    <item name="textView9" type="id" />
+    <item name="horizontalScrollView" type="id" />
+    <item name="textView10" type="id" />
+    <item name="bottomAppBar" type="id"/>
+</resources>

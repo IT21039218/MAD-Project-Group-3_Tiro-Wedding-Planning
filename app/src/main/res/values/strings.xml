@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiro Wedding</string>
+    <string name="id"> bottomAppBar</string>
+    <string name="pay_now">Pay Now</string>
+</resources>
