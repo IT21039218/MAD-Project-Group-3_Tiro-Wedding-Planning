@@ -22,6 +22,12 @@ public class Feedback extends AppCompatActivity {
         Button btnsend = (Button) findViewById(R.id.btnFeedbacksend);
 
         //btnsubmit onclicklistner
+        btnsubmit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                DisplayFeedback();
+            }
+        });
 
         //btnsend onclicklistner
         btnsend.setOnClickListener(new View.OnClickListener() {
@@ -41,5 +47,9 @@ public class Feedback extends AppCompatActivity {
 
             }
         });
+    }
+    public void  DisplayFeedback(){
+        Intent intent = new Intent(this, Displayfeedback.class);
+        startActivity(intent);
     }
 }

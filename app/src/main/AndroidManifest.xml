@@ -14,36 +14,29 @@
         android:theme="@style/Theme.TiroWedding"
         tools:targetApi="31">
         <activity
+            android:name=".MainPayment"
+            android:exported="false" />
+        <activity
             android:name=".HomeActivity"
-            android:exported="false"/>
-
-        <activity android:name=".Feedback"
-            android:exported="false"/>
-
-        <activity android:name=".Register"
-            android:exported="false"/>
-
-        <activity android:name=".LoginActivity"
-                android:exported="false"/>
-
-        <activity android:name=".MainActivity"
-                android:exported="true">
-
+            android:exported="false" />
+        <activity
+            android:name=".Feedback"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-
-
-    </activity>
-
-
-
-
-
-
+        </activity>
     </application>
 
 </manifest>
