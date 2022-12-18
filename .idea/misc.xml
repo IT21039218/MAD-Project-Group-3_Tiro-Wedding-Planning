@@ -6,16 +6,32 @@
         <entry key="..\:/TiroWedding/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2515" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2515" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_activitythree.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_activitytwo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_booking.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_delete.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_detailed.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_displayfeedback.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_feedback.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_foods.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_hall_booking.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_hall_update.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_home.xml" value="0.18020833333333333" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_login.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_main.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_main_feedback.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_main_payment.xml" value="0.1" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_payment.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_payment2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_photographer.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/activity_register.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/each_cart_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/each_offer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/partial_action.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/partial_main_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-Project-Group-3_Tiro-Wedding-Planning/app/src/main/res/layout/single_feedback.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
